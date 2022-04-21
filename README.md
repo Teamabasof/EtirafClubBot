@@ -12,7 +12,7 @@
 
 ----
 ### ♿ Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Teamabasof/EtirafClubBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Teamabasof/EtirafClubBot)
 
 
 ### ⚠️ Qeyd
